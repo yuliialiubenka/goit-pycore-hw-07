@@ -117,10 +117,10 @@ OOP-based address book implementation in `task/models/` package with proper enca
 
 **Test File:**
 
-Run [test_address_book_package.py](test_address_book_package.py) to see the implementation matching homework requirements:
+Run [test_add_users.py](test_add_users.py) to see the implementation matching homework requirements:
 
 ```cmd
-python test_address_book_package.py
+python test_add_users.py
 ```
 
 ## Project Structure
